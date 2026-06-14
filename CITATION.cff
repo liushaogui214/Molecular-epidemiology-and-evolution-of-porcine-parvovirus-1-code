@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived Zenodo record and the associated manuscript."
+title: "Source code for Molecular epidemiology and evolution of porcine parvovirus 1"
+authors:
+  - family-names: Cai
+    given-names: Xuwang
+date-released: "2026-06-14"
+license: MIT
+repository-code: "https://github.com/liushaogui214/Molecular-epidemiology-and-evolution-of-porcine-parvovirus-1-code"
+abstract: "Source code, input files, and selected outputs for TreeTime and BEAST analyses associated with the manuscript Molecular epidemiology and evolution of porcine parvovirus 1."
