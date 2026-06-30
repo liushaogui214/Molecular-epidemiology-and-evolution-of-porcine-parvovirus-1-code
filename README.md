@@ -39,15 +39,15 @@ TreeTime was used for time-scaled phylogenetic analysis:
 
 - Documentation: https://treetime.readthedocs.io/
 - Source code: https://github.com/neherlab/treetime
-- License: MIT License
+- License: Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 BEAST was used for Bayesian evolutionary analysis:
 
 - Website: https://beast-dev.github.io/beast-mcmc/
 - Source code: https://github.com/beast-dev/beast-mcmc
-- License: GNU Lesser General Public License v2.1
+- License: Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 ## License
 
-The source code in this repository is released under the MIT License. See `LICENSE` for details.
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See the LICENSE file for details.
 
